@@ -1,0 +1,47 @@
+{
+    "marcas_de_celulares": [
+      {
+        "nome": "Apple",
+        "modelo_popular": "iPhone",
+        "caracteristicas": [
+          "design",
+          "facilidade de uso",
+          "integração"
+        ]
+      },
+      {
+        "nome": "Samsung",
+        "modelo_popular": "Galaxy",
+        "caracteristicas": [
+          "diversidade",
+          "qualidade",
+          "inovação"
+        ]
+      },
+      {
+        "nome": "Xiaomi",
+        "caracteristicas": [
+          "preço acessível",
+          "boas especificações",
+          "crescimento rápido"
+        ]
+      },
+      {
+        "nome": "Motorola",
+        "caracteristicas": [
+          "modelos acessíveis",
+          "boa qualidade",
+          "reconhecimento de marca"
+        ]
+      },
+      {
+        "nome": "OnePlus",
+        "caracteristicas": [
+          "bom desempenho",
+          "preços competitivos",
+          "foco em tecnologia"
+        ]
+      }
+    ]
+  }
+  
